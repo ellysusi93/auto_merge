@@ -8,7 +8,7 @@ blockingLabels:
 - dont-merge
 
 minApprovals:
-  ORGANISATION_MEMBER: 1
+  COLLABORATOR: 1
 
 requiredLabels:
 - qa-approve
